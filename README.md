@@ -24,7 +24,7 @@ Toutes les positions, prix et paramètres sont personnalisables via config.lua.
 3️⃣ Profite du métier de fermier sur ton serveur FiveM !
 
 📜 Crédits
-💡 Script développé par [TonPseudo]
+💡 Script développé par BadiPvP
 📌 Compatible avec ESX
 
 🔥 N'hésite pas à starrer ⭐ le repo si le script te plaît !
